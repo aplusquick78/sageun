@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sageun.8222quick.com/sitemap.xml
+
+
+
